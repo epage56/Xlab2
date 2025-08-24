@@ -1,2 +1,2 @@
 # Xlab2
-DIY R.R Moore Fatigue test experimental setup with remote monitoring via esp32
+R.R Moore style fatigue test setup for characterization of fatigue properties of PLA. Wireless ESP32 monitoring 
